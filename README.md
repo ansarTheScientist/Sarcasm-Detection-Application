@@ -1,5 +1,4 @@
 # Sarcasm-Detection-Application
-Sarcasm Detection Application
 
 The Sarcasm Detection Application is a Python-based tool designed to identify and analyze sarcasm within textual content such as headlines and tweets. Leveraging advanced NLP techniques and Machine Learning algorithms, it determines whether text carries a sarcastic tone.
 
